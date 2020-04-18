@@ -107,7 +107,7 @@ template = {
         # "termsOfService": "http://me.com/terms",
         "version": version,
     },
-    "host": "httpbin.org",  # overrides localhost:5000
+    "host": "campagram.com",  # overrides localhost:5000
     "basePath": "/",  # base bash for blueprint registration
     "schemes": ["https"],
     "protocol": "https",
